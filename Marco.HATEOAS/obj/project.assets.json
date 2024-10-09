@@ -14,11 +14,11 @@
   "project": {
     "version": "8.0.303.1",
     "restore": {
-      "projectUniqueName": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
+      "projectUniqueName": "C:\\dev\\repos\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
       "projectName": "Marco.HATEOAS",
-      "projectPath": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
+      "projectPath": "C:\\dev\\repos\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
       "packagesPath": "C:\\Users\\Marco Túlio\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\obj\\",
+      "outputPath": "C:\\dev\\repos\\Marco.HATEOAS\\Marco.HATEOAS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

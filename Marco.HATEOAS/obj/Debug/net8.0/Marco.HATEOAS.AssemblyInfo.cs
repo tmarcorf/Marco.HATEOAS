@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright - tmarcorf")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("This is a smart library to implements HATEOAS documentation in your projects")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("8.0.303.1")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.303.1+d2dc9079b689ebd6815b73f4dcfad3032d1af730")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("8.0.303.1+91fab78844cdf3e63a73e7470a35cd4e8737c210")]
 [assembly: System.Reflection.AssemblyProductAttribute("Marco.HATEOAS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Marco.HATEOAS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("8.0.303.1")]

@@ -1,10 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\",
+  "WorkspaceRootPath": "C:\\dev\\repos\\Marco.HATEOAS\\Marco.HATEOAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1628BE85-976E-4626-92B4-A9D62F6A824C}|Marco.HATEOAS.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\marco.hateoas\\marco.hateoas\\marco.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1628BE85-976E-4626-92B4-A9D62F6A824C}|Marco.HATEOAS.csproj|solutionrelative:marco.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\dev\\repos\\Marco.HATEOAS\\.github\\workflows\\continuous-integration-nuget.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +18,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Marco.HATEOAS",
-              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
-              "RelativeDocumentMoniker": "Marco.HATEOAS.csproj",
-              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
-              "RelativeToolTip": "Marco.HATEOAS.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-09T21:03:20.914Z",
+              "Title": "continuous-integration-nuget.yml",
+              "DocumentMoniker": "C:\\dev\\repos\\Marco.HATEOAS\\.github\\workflows\\continuous-integration-nuget.yml",
+              "RelativeDocumentMoniker": "..\\.github\\workflows\\continuous-integration-nuget.yml",
+              "ToolTip": "C:\\dev\\repos\\Marco.HATEOAS\\.github\\workflows\\continuous-integration-nuget.yml",
+              "RelativeToolTip": "..\\.github\\workflows\\continuous-integration-nuget.yml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-09T21:38:50.988Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             }
           ]
         }
