@@ -9,7 +9,7 @@
     <Description>This is a smart library to implements HATEOAS documentation in your projects</Description>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Copyright>Copyright - tmarcorf</Copyright>
-    <Version>8.0.303.3</Version>
+    <Version>8.0.303.4</Version>
   </PropertyGroup>
 
   <ItemGroup>
