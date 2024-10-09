@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Marco.HATEOAS</id>
+    <version>8.0.303.1</version>
+    <title>Marco.HATEOAS</title>
+    <authors>Marco.HATEOAS</authors>
+    <description>This is a smart library to implements HATEOAS documentation in your projects</description>
+    <copyright>Copyright - tmarcorf</copyright>
+    <tags>HATEOAS</tags>
+    <repository type="git" commit="d2dc9079b689ebd6815b73f4dcfad3032d1af730" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\bin\Release\net8.0\Marco.HATEOAS.dll" target="lib\net8.0\Marco.HATEOAS.dll" />
+  </files>
+</package>

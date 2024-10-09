@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1628BE85-976E-4626-92B4-A9D62F6A824C}|Marco.HATEOAS.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\marco.hateoas\\marco.hateoas\\marco.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1628BE85-976E-4626-92B4-A9D62F6A824C}|Marco.HATEOAS.csproj|solutionrelative:marco.hateoas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Marco.HATEOAS",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
+              "RelativeDocumentMoniker": "Marco.HATEOAS.csproj",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\Marco.HATEOAS\\Marco.HATEOAS\\Marco.HATEOAS.csproj",
+              "RelativeToolTip": "Marco.HATEOAS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T21:03:20.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

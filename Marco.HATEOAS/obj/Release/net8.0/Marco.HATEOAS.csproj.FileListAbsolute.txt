@@ -1,0 +1,12 @@
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\bin\Release\net8.0\Marco.HATEOAS.deps.json
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\bin\Release\net8.0\Marco.HATEOAS.dll
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\bin\Release\net8.0\Marco.HATEOAS.pdb
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.AssemblyInfoInputs.cache
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.AssemblyInfo.cs
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.csproj.CoreCompileInputs.cache
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.sourcelink.json
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.dll
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\refint\Marco.HATEOAS.dll
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\Marco.HATEOAS.pdb
+C:\dev\repos\tmarcorf-microservices-dotnet8\Marco.HATEOAS\Marco.HATEOAS\obj\Release\net8.0\ref\Marco.HATEOAS.dll

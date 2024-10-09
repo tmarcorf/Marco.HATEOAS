@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Marco.HATEOAS</id>
+    <version>1.0.0</version>
+    <title>Marco.HATEOAS</title>
+    <authors>Marco.HATEOAS</authors>
+    <description>This is a smart library to implements HATEOAS documentation in your projects</description>
+    <copyright>Copyright - tmarcorf</copyright>
+    <tags>HATEOAS</tags>
+    <repository type="git" commit="d2dc9079b689ebd6815b73f4dcfad3032d1af730" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Asp.Versioning.Mvc" version="7.1.0" exclude="Build,Analyzers" />
+        <dependency id="Evolve" version="3.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.JwtBearer" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="3.1.1" exclude="Build,Analyzers" />
+        <dependency id="Serilog.AspNetCore" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog.Sinks.Console" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Swashbuckle.AspNetCore" version="6.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\dev\repos\tmarcorf-microservices-dotnet8\NuGet\Marco.HATEOAS\bin\Debug\net8.0\Marco.HATEOAS.dll" target="lib\net8.0\Marco.HATEOAS.dll" />
+  </files>
+</package>

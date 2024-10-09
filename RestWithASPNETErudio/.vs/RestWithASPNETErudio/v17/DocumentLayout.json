@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\business\\implementations\\loginbusinessimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\configurations\\tokenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\db\\migrations\\v5__create_table_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\migrations\\v5__create_table_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\dataset\\v2__populate_table_person.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\db\\dataset\\v6__insert_data_in_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\dataset\\v6__insert_data_in_users.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\db\\dataset\\v8__populate_person_with_many.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\db\\dataset\\v8__populate_person_with_many.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|c:\\dev\\repos\\tmarcorf-microservices-dotnet8\\nuget\\restwithaspneterudio\\restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64702473-478C-4F5A-BCAF-D80B4D234CB0}|RestWithASPNETErudio\\RestWithASPNETErudio.csproj|solutionrelative:restwithaspneterudio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginBusinessImplementation.cs",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Business\\Implementations\\LoginBusinessImplementation.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAD4v1kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:51:08.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenConfiguration.cs",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Configurations\\TokenConfiguration.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Configurations\\TokenConfiguration.cs",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Configurations\\TokenConfiguration.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Configurations\\TokenConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:52:17.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "V5__Create_Table_Users.sql",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V5__Create_Table_Users.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\migrations\\V5__Create_Table_Users.sql",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\migrations\\V5__Create_Table_Users.sql",
+              "RelativeToolTip": "RestWithASPNETErudio\\db\\migrations\\V5__Create_Table_Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T15:52:03.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "V2__Populate_Table_Person.sql",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
+              "RelativeToolTip": "RestWithASPNETErudio\\db\\dataset\\V2__Populate_Table_Person.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T15:51:58.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "V8__Populate_Person_With_Many.sql",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V8__Populate_Person_With_Many.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\dataset\\V8__Populate_Person_With_Many.sql",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V8__Populate_Person_With_Many.sql",
+              "RelativeToolTip": "RestWithASPNETErudio\\db\\dataset\\V8__Populate_Person_With_Many.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T15:51:34.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:47:25.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "V6__Insert_Data_In_Users.sql",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V6__Insert_Data_In_Users.sql",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\db\\dataset\\V6__Insert_Data_In_Users.sql",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\db\\dataset\\V6__Insert_Data_In_Users.sql",
+              "RelativeToolTip": "RestWithASPNETErudio\\db\\dataset\\V6__Insert_Data_In_Users.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T15:46:55.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\appsettings.json",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\appsettings.json",
+              "RelativeToolTip": "RestWithASPNETErudio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T15:36:19.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNETErudio\\Program.cs",
+              "ToolTip": "C:\\dev\\repos\\tmarcorf-microservices-dotnet8\\NuGet\\RestWithASPNETErudio\\RestWithASPNETErudio\\Program.cs",
+              "RelativeToolTip": "RestWithASPNETErudio\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:33:13.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
