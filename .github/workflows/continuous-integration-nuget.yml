@@ -30,5 +30,5 @@ jobs:
     - name: Generate Nuget Package
       run: dotnet pack -c release -o ./dist/
 
-    - name: Push Nuget Package
-      run: dotnet nuget push "./dist/*" -k ${{secrets.NUGET_API_KEY}} -s https://api.nuget.org/v3/index.json
+    #- name: Push Nuget Package
+      #run: dotnet nuget push "./dist/*" -k ${{secrets.NUGET_API_KEY}} -s https://api.nuget.org/v3/index.json
